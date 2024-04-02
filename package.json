@@ -1,0 +1,15 @@
+{
+    "name": "kingdom-trader",
+    "version": "1.0.0",
+    "description": "A medieval fantasy game where you embark on a journey as a daring merchant in a land filled with mythical creatures, magic, and treacherous adventures.",
+    "main": "server.js",
+    "scripts": {
+        "start": "node server.js"
+    },
+    "dependencies": {
+        "body-parser": "^1.20.2",
+        "express": "^4.19.2",
+        "express-session": "^1.18.0",
+        "mongoose": "^8.2.4"
+    }
+}

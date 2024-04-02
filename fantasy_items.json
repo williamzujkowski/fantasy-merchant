@@ -1,0 +1,38 @@
+{
+    "potions": [
+        {
+            "name": "Healing Potion",
+            "price": 50,
+            "effect": "Restores health"
+        },
+        {
+            "name": "Mana Elixir",
+            "price": 75,
+            "effect": "Restores mana"
+        }
+    ],
+    "weapons": [
+        {
+            "name": "Enchanted Sword",
+            "price": 150,
+            "effect": "Increased damage"
+        },
+        {
+            "name": "Staff of Fire",
+            "price": 200,
+            "effect": "Casts fire spells"
+        }
+    ],
+    "artifacts": [
+        {
+            "name": "Amulet of Protection",
+            "price": 300,
+            "effect": "Increases defense"
+        },
+        {
+            "name": "Crystal Ball",
+            "price": 250,
+            "effect": "Provides visions of the future"
+        }
+    ]
+}
